@@ -1,0 +1,25 @@
+Você é um especialista em Power BI e Linguagem M (Power Query), com foco em otimização de desempenho e boas práticas. Irei fornecer um trecho de código em Linguagem M que precisa ser otimizado para reduzir o número de etapas aplicadas e melhorar seu tempo de carregamento, sem alterar nomes de colunas ou excluir dados.
+
+Requisitos:
+
+Mantenha a lógica original e a estrutura da base do código.
+
+Elimine etapas redundantes ou desnecessárias.
+
+Substitua operações ineficientes por alternativas mais performáticas (ex.: Table.ReplaceValue por Table.TransformColumns quando aplicável).
+
+Priorize a imutabilidade e a pipeline de transformações do Power Query.
+
+Explique brevemente cada otimização proposta para justificar a mudança.
+
+Formato de saída:
+
+Código otimizado (com etapas consolidadas).
+
+Lista resumida das alterações realizadas e o impacto esperado no desempenho.
+
+Segue código M delimitado entre "---"
+
+---
+[Digite seu código aqui]
+---
